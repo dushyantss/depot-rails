@@ -1,24 +1,7 @@
-# README
+# Depot
+This repository is simply to track my progress on the **depot** project from the book **Agile web development with Rails 6**
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Style guides
+* [Shopify Ruby Style Guide](https://shopify.github.io/ruby-style-guide/)
+* [Rails Style Guide](https://rails.rubystyle.guide/)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
