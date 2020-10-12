@@ -1,0 +1,20 @@
+inherit_gem:
+  rubocop-shopify: rubocop.yml
+
+require:
+  - rubocop-performance
+  - rubocop-rspec
+  - rubocop-rails
+
+AllCops:
+  Exclude:
+    - bin/**/*
+    - node_modules/**/*
+
+Style/ClassAndModuleChildren:
+  Enabled: false
+
+# { ... } for multi-line blocks is okay, follow Weirichs rule instead:
+# https://web.archive.org/web/20140221124509/http://onestepback.org/index.cgi/Tech/Ruby/BraceVsDoEnd.rdoc
+Style/BlockDelimiters:
+  Enabled: false
