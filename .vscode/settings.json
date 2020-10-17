@@ -1,0 +1,7 @@
+{
+  "solargraph.useBundler": true,
+  "solargraph.bundlerPath": "/Users/bluesapling16/.rubies/ruby-2.6.3/bin/bundler",
+  "solargraph.checkGemVersion": false,
+  "solargraph.diagnostics": true,
+  "solargraph.formatting": true
+}
