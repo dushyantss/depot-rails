@@ -49,6 +49,8 @@ group :development do
   gem 'rubocop-rails', require: false
   # Solargraph for intellisense
   gem 'solargraph', require: false
+  # Annotate all the models
+  gem 'annotate'
 end
 
 group :test do
